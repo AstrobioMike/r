@@ -4,5 +4,4 @@ channels:
 dependencies:
   - python
   - pip
-  - pip:
-    - cutadapt
+  - cutadapt =2.3
